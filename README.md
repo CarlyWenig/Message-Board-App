@@ -1,8 +1,21 @@
 # Message-Board
+Carly Wenig
 
 Description: 
 
 A messaging board that allows users to post messages to a message board. The messages are displayed on the message board from most recent to less recent. 
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- Users are see a screen with three labels and a button (Note: this functionality is completed across the two screens I created) 
+- Tapping the button changes the screen color to a random color
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+https://i.imgur.com/t90gDov.mp4
 
 Overview: 
 
@@ -56,4 +69,28 @@ An extra feature is that it will censor out bad words, for this application, a s
 <img width="368" alt="Screenshot 2023-01-14 at 00 59 35" src="https://user-images.githubusercontent.com/69254490/212458817-e8630b6c-2635-4cb1-b46b-1296b09f43da.png">
 
 Once you've posted all the messages, you can exit out of the application and re-enter and the data will still be stored for you to see 
+
+
+## App Brainstorming (Step 4)
+- goal: create a simple app that allows for communication between a community 
+
+## Notes
+Some challenges I went through were trying to do the form and display the form information onto the main screen 
+
+## License
+
+    Copyright 2023 Carly Wenig 
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
 
