@@ -49,9 +49,6 @@ If you wanted to change the background color of the app to pink, press the chang
 
 Once you fill out all the fields, the message will appear on the message board 
 
-<img width="379" alt="Screenshot 2023-01-14 at 00 57 38" src="https://user-images.githubusercontent.com/69254490/212458697-5abf089d-942f-4ebd-8bad-f78747f76baf.png">
-
-
 <img width="357" alt="Screenshot 2023-01-14 at 00 57 44" src="https://user-images.githubusercontent.com/69254490/212458700-c0a9e7e4-3111-4828-97ae-29b0f58e15e7.png">
 
 If you don't fill out any of the fields, it will not submit and no message will be added as the button will not be clickable unless the fields are filled in 
